@@ -1,0 +1,4 @@
+pynacl~=1.5
+doubleratchet~=1.2.0
+msgpack~=1.0
+pytest~=8.0 
